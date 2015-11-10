@@ -1,0 +1,61 @@
+UNIQUE FIELDS IN DATAFRAME
+
+{', "cookie_q_c":',
+ ', "listAgent":',
+ ', "listAmen":',
+ ', "listAvailDate":',
+ ', "listBath":',
+ ', "listBed":',
+ ', "listBoro":',
+ ', "listBrokerage":',
+ ', "listBuilding":',
+ ', "listDate":',
+ ', "listDaysMarket":',
+ ', "listFloor3d":',
+ ', "listFloorPlan":',
+ ', "listGeoLat":',
+ ', "listGeoLon":',
+ ', "listID":',
+ ', "listNabe":',
+ ', "listNoFee":',
+ ', "listPPSF":',
+ ', "listPhotos":',
+ ', "listPrice":',
+ ', "listPropertyType":',
+ ', "listRoom":',
+ ', "listSqFt":',
+ ', "listStatus":',
+ ', "listTaxAbate":',
+ ', "listType":',
+ ', "listVideo":',
+ ', "listZip":',
+ ', "pageCat":',
+ ', "pageType":',
+ ', "session_q_c":',
+ ', "site":',
+ ', "userType":'}
+
+ ##FieldstoUse
+listAgent
+listAmen
+listAvailDate
+listBath
+listBed
+listBoro
+listBrokerage
+listBuilding
+listDate
+listDaysMarket
+listGeoLat
+listGeoLon
+listID
+listNabe
+listNoFee
+listPPSF
+listPrice
+listPropertyType
+listRoom
+listSqFt
+listStatus
+listType
+listZip

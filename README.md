@@ -1,2 +1,2 @@
-# Project3
-Shinny App on Lending Club
+# NYCREx
+Web scraping application for NYC Rental data.
